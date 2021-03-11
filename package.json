@@ -1,0 +1,20 @@
+{
+  "name": "git-concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgejr3211/git-concepts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgejr3211/git-concepts/issues"
+  },
+  "homepage": "https://github.com/georgejr3211/git-concepts#readme"
+}
